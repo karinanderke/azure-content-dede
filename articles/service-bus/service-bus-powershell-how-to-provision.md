@@ -20,7 +20,7 @@
 
 ## Übersicht
 
-Microsoft Azure PowerShell ist eine Skriptumgebung, mit der Sie die Bereitstellung und Verwaltung Ihrer Workloads in Azure steuern und automatisieren können. In diesem Artikel wird beschrieben, wie Sie mithilfe von PowerShell Service Bus-Entitäten wie Namespaces, Warteschlangen und Event Hubs über eine lokale Azure PowerShell-Konsole bereitstellen und verwalten.
+Microsoft Azure PowerShell ist eine Skriptumgebung, mit der Sie die Bereitstellung und Verwaltung Ihrer Workloads in Azure steuern und automatisieren können. In diesem Artikel wird beschrieben, wie Sie mithilfe von PowerShell Service Bus-Entitäten wie Namespaces, Warteschlangen und 
 
 ## Voraussetzungen
 
