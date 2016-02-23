@@ -29,7 +29,7 @@ Umfassende Informationen zu den Preisen von Event Hubs finden Sie unter [Event H
 
 Jedes an einen Event Hub gesendete Ereignis wird als abrechenbare Nachricht gezählt. Ein *Eingangsereignis* ist als eine Dateneinheit definiert, die kleiner oder gleich 64 KB ist. Jedes Ereignis, das kleiner als oder gleich 64 KB ist, gilt als kostenpflichtig. Wenn das Ereignis größer als 64 KB ist, wird die Anzahl der abzurechnenden Ereignisse gemäß der Ereignisgröße in Vielfachen von 64 KB berechnet. Beispiel: Ein an den Event Hub gesendetes Ereignis mit einer Größe von 8 KB wird als ein Ereignis abgerechnet. Für eine an den Event Hub gesendete Nachricht mit einer Größe von 96 KB werden allerdings zwei Ereignisse in Rechnung gestellt.
 
-Von einem Event Hub genutzte Ereignisse sowie Verwaltungsvorgänge und Steuerungsaufrufe wie etwa Prüfpunkte werden nicht als abzurechnende Eingangsereignisse gezählt, sondern bis zur erlaubten Durchsatzeinheit angesammelt.
+Von einem Event Hub genutzte Ereignisse, sowie Verwaltungsvorgänge und Steuerungsaufrufe wie etwa Prüfpunkte, werden nicht als abzurechnende Eingangsereignisse gezählt; sondern bis zur erlaubten Durchsatzeinheit angesammelt.
 
 ## Was sind Event Hubs-Durchsatzeinheiten?
 
